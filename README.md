@@ -16,7 +16,7 @@ Follow these steps to get started with the streetlight classifier:
 
 1. **Get Images from the Data Repository:**
    ```bash
-   git clone [https://github.com/your-username/streetlight-classifier.git](https://github.com/NINFA-UFES/PublicLightDataset)
+   git clone https://github.com/NINFA-UFES/PublicLightDataset
    ```
    rename the folder Images to img. Certify the folder is in the same diretory than the code.ipynb
 
