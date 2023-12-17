@@ -14,29 +14,20 @@ This repository implements an end-to-end classifier for intelligent detection of
 
 Follow these steps to get started with the streetlight classifier:
 
-1. **Clone the Repository:**
+1. **Get Images from the Data Repository:**
    ```bash
-   git clone https://github.com/your-username/streetlight-classifier.git
-   cd streetlight-classifier
+   git clone [https://github.com/your-username/streetlight-classifier.git](https://github.com/NINFA-UFES/PublicLightDataset)
    ```
+   rename the folder Images to img. Certify the folder is in the same diretory than the code.ipynb
 
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. **Run Notebook:**
 
-3. **Run the Classifier:**
-   ```bash
-   python classify_streetlights.py --image_path /path/to/your/image.jpg
-   ```
+   Run the notebook cells. Certify to install all requirements.
 
-## Dataset
-
-The dataset used for training and evaluation is not included in this repository. Please refer to the paper ["A Transfer Learning Approach to Image-Based Intelligent Detection of Street Lighting Lamp Types and Wattages"] for details on accessing the dataset.
 
 ## Results
 
-The model achieved promising results in terms of accuracy, precision, and recall. For detailed results, refer to the paper or the `results/` directory.
+The model achieved promising results in terms of accuracy.
 
 ## Contributing
 
