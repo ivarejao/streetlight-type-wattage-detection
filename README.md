@@ -10,9 +10,9 @@ This repository implements an end-to-end classifier for intelligent detection of
 
 - **Dataset Information:** Details about the dataset used for training the model, including image descriptors obtained from experiments using traditional machine learning models.
 
-## Getting Started
+## How to run the report experiments
 
-Follow these steps to get started with the streetlight classifier:
+Follow these steps:
 
 1. **Get Images from the Data Repository:**
    ```bash
