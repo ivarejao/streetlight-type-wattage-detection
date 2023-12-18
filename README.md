@@ -33,6 +33,11 @@ The model achieved promising results in terms of accuracy.
 
 Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or bug fixes.
 
+## Experiments Video
+
+The experiments explanation is available on https://youtu.be/JN8hdmprOwU
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
